@@ -1,6 +1,0 @@
-Last Tweets
-
-Dependencies:
- * Google App Engine
- * simplejson (for Python 2.5 and earlier)
- * twitter-client

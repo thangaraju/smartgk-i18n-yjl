@@ -1,0 +1,2407 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-10 14:44+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: base64\n"
+
+#: i18n.py:112
+msgid "Internationalization"
+msgstr ""
+
+#: conf/settings.py:6 template/i18n.html:16 django/conf/global_settings.py:47
+msgid "English"
+msgstr ""
+
+#: conf/settings.py:7
+msgid "Chinese"
+msgstr ""
+
+#: conf/settings.py:8 template/i18n.html:16
+msgid "Hindi"
+msgstr ""
+
+#: conf/settings.py:9 template/i18n.html:16 django/conf/global_settings.py:48
+msgid "Spanish"
+msgstr ""
+
+#: conf/settings.py:10 django/conf/global_settings.py:72
+msgid "Tamil"
+msgstr ""
+
+#: template/i18n.html:10
+msgid "Set Cookie['django_language'] to en"
+msgstr ""
+
+#: template/i18n.html:11
+msgid "Set Cookie['django_language'] to zh_TW"
+msgstr ""
+
+#: template/i18n.html:12
+msgid "Set Cookie['django_language'] to hi"
+msgstr ""
+
+#: template/i18n.html:13
+msgid "Set Cookie['django_language'] to es"
+msgstr ""
+
+#: template/i18n.html:14
+msgid "Unset Cookie['django_language']"
+msgstr ""
+
+#: template/i18n.html:15
+msgid "Welcome to India"
+msgstr ""
+
+#: template/i18n.html:16
+msgid "Chinesh"
+msgstr ""
+
+#: django/views/generic/create_update.py:43
+#, python-format
+msgid "The %(verbose_name)s was created successfully."
+msgstr ""
+
+#: django/views/generic/create_update.py:117
+#, python-format
+msgid "The %(verbose_name)s was updated successfully."
+msgstr ""
+
+#: django/views/generic/create_update.py:184
+#, python-format
+msgid "The %(verbose_name)s was deleted."
+msgstr ""
+
+#: django/utils/dateformat.py:40
+msgid "p.m."
+msgstr ""
+
+#: django/utils/dateformat.py:41
+msgid "a.m."
+msgstr ""
+
+#: django/utils/dateformat.py:46
+msgid "PM"
+msgstr ""
+
+#: django/utils/dateformat.py:47
+msgid "AM"
+msgstr ""
+
+#: django/utils/dateformat.py:95
+msgid "midnight"
+msgstr ""
+
+#: django/utils/dateformat.py:97
+msgid "noon"
+msgstr ""
+
+#: django/utils/dates.py:6
+msgid "Monday"
+msgstr ""
+
+#: django/utils/dates.py:6
+msgid "Tuesday"
+msgstr ""
+
+#: django/utils/dates.py:6
+msgid "Wednesday"
+msgstr ""
+
+#: django/utils/dates.py:6
+msgid "Thursday"
+msgstr ""
+
+#: django/utils/dates.py:6
+msgid "Friday"
+msgstr ""
+
+#: django/utils/dates.py:7
+msgid "Saturday"
+msgstr ""
+
+#: django/utils/dates.py:7
+msgid "Sunday"
+msgstr ""
+
+#: django/utils/dates.py:14
+msgid "January"
+msgstr ""
+
+#: django/utils/dates.py:14
+msgid "February"
+msgstr ""
+
+#: django/utils/dates.py:14 django/utils/dates.py:27
+msgid "March"
+msgstr ""
+
+#: django/utils/dates.py:14 django/utils/dates.py:27
+msgid "April"
+msgstr ""
+
+#: django/utils/dates.py:14 django/utils/dates.py:27
+msgid "May"
+msgstr ""
+
+#: django/utils/dates.py:14 django/utils/dates.py:27
+msgid "June"
+msgstr ""
+
+#: django/utils/dates.py:15 django/utils/dates.py:27
+msgid "July"
+msgstr ""
+
+#: django/utils/dates.py:15
+msgid "August"
+msgstr ""
+
+#: django/utils/dates.py:15
+msgid "September"
+msgstr ""
+
+#: django/utils/dates.py:15
+msgid "October"
+msgstr ""
+
+#: django/utils/dates.py:15
+msgid "November"
+msgstr ""
+
+#: django/utils/dates.py:16
+msgid "December"
+msgstr ""
+
+#: django/utils/dates.py:19
+msgid "jan"
+msgstr ""
+
+#: django/utils/dates.py:19
+msgid "feb"
+msgstr ""
+
+#: django/utils/dates.py:19
+msgid "mar"
+msgstr ""
+
+#: django/utils/dates.py:19
+msgid "apr"
+msgstr ""
+
+#: django/utils/dates.py:19
+msgid "may"
+msgstr ""
+
+#: django/utils/dates.py:19
+msgid "jun"
+msgstr ""
+
+#: django/utils/dates.py:20
+msgid "jul"
+msgstr ""
+
+#: django/utils/dates.py:20
+msgid "aug"
+msgstr ""
+
+#: django/utils/dates.py:20
+msgid "sep"
+msgstr ""
+
+#: django/utils/dates.py:20
+msgid "oct"
+msgstr ""
+
+#: django/utils/dates.py:20
+msgid "nov"
+msgstr ""
+
+#: django/utils/dates.py:20
+msgid "dec"
+msgstr ""
+
+#: django/utils/dates.py:27
+msgid "Jan."
+msgstr ""
+
+#: django/utils/dates.py:27
+msgid "Feb."
+msgstr ""
+
+#: django/utils/dates.py:28
+msgid "Aug."
+msgstr ""
+
+#: django/utils/dates.py:28
+msgid "Sept."
+msgstr ""
+
+#: django/utils/dates.py:28
+msgid "Oct."
+msgstr ""
+
+#: django/utils/dates.py:28
+msgid "Nov."
+msgstr ""
+
+#: django/utils/dates.py:28
+msgid "Dec."
+msgstr ""
+
+#: django/utils/timesince.py:12
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/utils/timesince.py:13
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/utils/timesince.py:14
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/utils/timesince.py:15
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/utils/timesince.py:16
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/utils/timesince.py:17
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/utils/translation/trans_real.py:369
+msgid "DATE_FORMAT"
+msgstr ""
+
+#: django/utils/translation/trans_real.py:370
+msgid "DATETIME_FORMAT"
+msgstr ""
+
+#: django/utils/translation/trans_real.py:371
+msgid "TIME_FORMAT"
+msgstr ""
+
+#: django/utils/translation/trans_real.py:387
+msgid "YEAR_MONTH_FORMAT"
+msgstr ""
+
+#: django/utils/translation/trans_real.py:388
+msgid "MONTH_DAY_FORMAT"
+msgstr ""
+
+#: django/template/defaultfilters.py:491
+msgid "yes,no,maybe"
+msgstr ""
+
+#: django/oldforms/__init__.py:357 django/newforms/fields.py:78
+#: django/newforms/fields.py:374 django/newforms/fields.py:450
+#: django/newforms/fields.py:461 django/newforms/models.py:177
+#: django/db/models/fields/__init__.py:117
+#: django/db/models/fields/__init__.py:274
+#: django/db/models/fields/__init__.py:610
+#: django/db/models/fields/__init__.py:621
+msgid "This field is required."
+msgstr ""
+
+#: django/oldforms/__init__.py:392
+#, python-format
+msgid "Ensure your text is less than %s character."
+msgid_plural "Ensure your text is less than %s characters."
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/oldforms/__init__.py:397
+msgid "Line breaks are not allowed here."
+msgstr ""
+
+#: django/oldforms/__init__.py:498 django/oldforms/__init__.py:571
+#: django/oldforms/__init__.py:610
+#, python-format
+msgid "Select a valid choice; '%(data)s' is not in %(choices)s."
+msgstr ""
+
+#: django/oldforms/__init__.py:577 django/newforms/widgets.py:170
+#: django/contrib/admin/filterspecs.py:150
+msgid "Unknown"
+msgstr ""
+
+#: django/oldforms/__init__.py:577 django/newforms/widgets.py:170
+#: django/contrib/admin/filterspecs.py:143
+msgid "Yes"
+msgstr ""
+
+#: django/oldforms/__init__.py:577 django/newforms/widgets.py:170
+#: django/contrib/admin/filterspecs.py:143
+msgid "No"
+msgstr ""
+
+#: django/oldforms/__init__.py:672 django/core/validators.py:174
+#: django/core/validators.py:445
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: django/oldforms/__init__.py:674
+msgid "The submitted file is empty."
+msgstr ""
+
+#: django/oldforms/__init__.py:730
+msgid "Enter a whole number between -32,768 and 32,767."
+msgstr ""
+
+#: django/oldforms/__init__.py:740
+msgid "Enter a positive number."
+msgstr ""
+
+#: django/oldforms/__init__.py:750
+msgid "Enter a whole number between 0 and 32,767."
+msgstr ""
+
+#: django/newforms/fields.py:101 django/newforms/fields.py:254
+#, python-format
+msgid "Ensure this value has at most %d characters."
+msgstr ""
+
+#: django/newforms/fields.py:103 django/newforms/fields.py:256
+#, python-format
+msgid "Ensure this value has at least %d characters."
+msgstr ""
+
+#: django/newforms/fields.py:126 django/core/validators.py:120
+msgid "Enter a whole number."
+msgstr ""
+
+#: django/newforms/fields.py:128
+#, python-format
+msgid "Ensure this value is less than or equal to %s."
+msgstr ""
+
+#: django/newforms/fields.py:130
+#, python-format
+msgid "Ensure this value is greater than or equal to %s."
+msgstr ""
+
+#: django/newforms/fields.py:163
+msgid "Enter a valid date."
+msgstr ""
+
+#: django/newforms/fields.py:190
+msgid "Enter a valid time."
+msgstr ""
+
+#: django/newforms/fields.py:226
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: django/newforms/fields.py:240
+msgid "Enter a valid value."
+msgstr ""
+
+#: django/newforms/fields.py:269 django/core/validators.py:162
+msgid "Enter a valid e-mail address."
+msgstr ""
+
+#: django/newforms/fields.py:287 django/newforms/fields.py:309
+msgid "Enter a valid URL."
+msgstr ""
+
+#: django/newforms/fields.py:311
+msgid "This URL appears to be a broken link."
+msgstr ""
+
+#: django/newforms/fields.py:360 django/newforms/models.py:164
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: django/newforms/fields.py:378 django/newforms/fields.py:454
+#: django/newforms/models.py:181
+msgid "Enter a list of values."
+msgstr ""
+
+#: django/newforms/fields.py:387 django/newforms/models.py:187
+#, python-format
+msgid "Select a valid choice. %s is not one of the available choices."
+msgstr ""
+
+#: django/db/models/manipulators.py:307
+#, python-format
+msgid "%(object)s with this %(type)s already exists for the given %(field)s."
+msgstr ""
+
+#: django/db/models/manipulators.py:308 django/contrib/admin/views/main.py:335
+#: django/contrib/admin/views/main.py:337
+#: django/contrib/admin/views/main.py:339
+msgid "and"
+msgstr ""
+
+#: django/db/models/fields/related.py:53
+#, python-format
+msgid "Please enter a valid %s."
+msgstr ""
+
+#: django/db/models/fields/related.py:642
+msgid "Separate multiple IDs with commas."
+msgstr ""
+
+#: django/db/models/fields/related.py:644
+msgid ""
+"Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
+msgstr ""
+
+#: django/db/models/fields/related.py:691
+#, python-format
+msgid "Please enter valid %(self)s IDs. The value %(value)r is invalid."
+msgid_plural ""
+"Please enter valid %(self)s IDs. The values %(value)r are invalid."
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/db/models/fields/__init__.py:42
+#, python-format
+msgid "%(optname)s with this %(fieldname)s already exists."
+msgstr ""
+
+#: django/db/models/fields/__init__.py:367
+msgid "This value must be an integer."
+msgstr ""
+
+#: django/db/models/fields/__init__.py:402
+msgid "This value must be either True or False."
+msgstr ""
+
+#: django/db/models/fields/__init__.py:423
+msgid "This field cannot be null."
+msgstr ""
+
+#: django/db/models/fields/__init__.py:457 django/core/validators.py:148
+msgid "Enter a valid date in YYYY-MM-DD format."
+msgstr ""
+
+#: django/db/models/fields/__init__.py:526 django/core/validators.py:157
+msgid "Enter a valid date/time in YYYY-MM-DD HH:MM format."
+msgstr ""
+
+#: django/db/models/fields/__init__.py:630
+msgid "Enter a valid filename."
+msgstr ""
+
+#: django/db/models/fields/__init__.py:751
+msgid "This value must be either None, True or False."
+msgstr ""
+
+#: django/core/validators.py:64
+msgid "This value must contain only letters, numbers and underscores."
+msgstr ""
+
+#: django/core/validators.py:68
+msgid ""
+"This value must contain only letters, numbers, underscores, dashes or "
+"slashes."
+msgstr ""
+
+#: django/core/validators.py:72
+msgid "This value must contain only letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: django/core/validators.py:76
+msgid "Uppercase letters are not allowed here."
+msgstr ""
+
+#: django/core/validators.py:80
+msgid "Lowercase letters are not allowed here."
+msgstr ""
+
+#: django/core/validators.py:87
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: django/core/validators.py:99
+msgid "Enter valid e-mail addresses separated by commas."
+msgstr ""
+
+#: django/core/validators.py:103
+msgid "Please enter a valid IP address."
+msgstr ""
+
+#: django/core/validators.py:107
+msgid "Empty values are not allowed here."
+msgstr ""
+
+#: django/core/validators.py:111
+msgid "Non-numeric characters aren't allowed here."
+msgstr ""
+
+#: django/core/validators.py:115
+msgid "This value can't be comprised solely of digits."
+msgstr ""
+
+#: django/core/validators.py:124
+msgid "Only alphabetical characters are allowed here."
+msgstr ""
+
+#: django/core/validators.py:139
+msgid "Year must be 1900 or later."
+msgstr ""
+
+#: django/core/validators.py:143
+#, python-format
+msgid "Invalid date: %s"
+msgstr ""
+
+#: django/core/validators.py:153
+msgid "Enter a valid time in HH:MM format."
+msgstr ""
+
+#: django/core/validators.py:178
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: django/core/validators.py:185
+#, python-format
+msgid "The URL %s does not point to a valid image."
+msgstr ""
+
+#: django/core/validators.py:189
+#, python-format
+msgid "Phone numbers must be in XXX-XXX-XXXX format. \"%s\" is invalid."
+msgstr ""
+
+#: django/core/validators.py:197
+#, python-format
+msgid "The URL %s does not point to a valid QuickTime video."
+msgstr ""
+
+#: django/core/validators.py:201
+msgid "A valid URL is required."
+msgstr ""
+
+#: django/core/validators.py:215
+#, python-format
+msgid ""
+"Valid HTML is required. Specific errors are:\n"
+"%s"
+msgstr ""
+
+#: django/core/validators.py:222
+#, python-format
+msgid "Badly formed XML: %s"
+msgstr ""
+
+#: django/core/validators.py:239
+#, python-format
+msgid "Invalid URL: %s"
+msgstr ""
+
+#: django/core/validators.py:244 django/core/validators.py:246
+#, python-format
+msgid "The URL %s is a broken link."
+msgstr ""
+
+#: django/core/validators.py:252
+msgid "Enter a valid U.S. state abbreviation."
+msgstr ""
+
+#: django/core/validators.py:266
+#, python-format
+msgid "Watch your mouth! The word %s is not allowed here."
+msgid_plural "Watch your mouth! The words %s are not allowed here."
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/core/validators.py:273
+#, python-format
+msgid "This field must match the '%s' field."
+msgstr ""
+
+#: django/core/validators.py:292
+msgid "Please enter something for at least one field."
+msgstr ""
+
+#: django/core/validators.py:301 django/core/validators.py:312
+msgid "Please enter both fields or leave them both empty."
+msgstr ""
+
+#: django/core/validators.py:320
+#, python-format
+msgid "This field must be given if %(field)s is %(value)s"
+msgstr ""
+
+#: django/core/validators.py:333
+#, python-format
+msgid "This field must be given if %(field)s is not %(value)s"
+msgstr ""
+
+#: django/core/validators.py:352
+msgid "Duplicate values are not allowed."
+msgstr ""
+
+#: django/core/validators.py:367
+#, python-format
+msgid "This value must be between %(lower)s and %(upper)s."
+msgstr ""
+
+#: django/core/validators.py:369
+#, python-format
+msgid "This value must be at least %s."
+msgstr ""
+
+#: django/core/validators.py:371
+#, python-format
+msgid "This value must be no more than %s."
+msgstr ""
+
+#: django/core/validators.py:407
+#, python-format
+msgid "This value must be a power of %s."
+msgstr ""
+
+#: django/core/validators.py:418
+msgid "Please enter a valid decimal number."
+msgstr ""
+
+#: django/core/validators.py:422
+#, python-format
+msgid "Please enter a valid decimal number with at most %s total digit."
+msgid_plural ""
+"Please enter a valid decimal number with at most %s total digits."
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/core/validators.py:425
+#, python-format
+msgid ""
+"Please enter a valid decimal number with a whole part of at most %s digit."
+msgid_plural ""
+"Please enter a valid decimal number with a whole part of at most %s digits."
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/core/validators.py:428
+#, python-format
+msgid "Please enter a valid decimal number with at most %s decimal place."
+msgid_plural ""
+"Please enter a valid decimal number with at most %s decimal places."
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/core/validators.py:438
+#, python-format
+msgid "Make sure your uploaded file is at least %s bytes big."
+msgstr ""
+
+#: django/core/validators.py:439
+#, python-format
+msgid "Make sure your uploaded file is at most %s bytes big."
+msgstr ""
+
+#: django/core/validators.py:456
+msgid "The format for this field is wrong."
+msgstr ""
+
+#: django/core/validators.py:471
+msgid "This field is invalid."
+msgstr ""
+
+#: django/core/validators.py:507
+#, python-format
+msgid "Could not retrieve anything from %s."
+msgstr ""
+
+#: django/core/validators.py:510
+#, python-format
+msgid ""
+"The URL %(url)s returned the invalid Content-Type header '%(contenttype)s'."
+msgstr ""
+
+#: django/core/validators.py:543
+#, python-format
+msgid ""
+"Please close the unclosed %(tag)s tag from line %(line)s. (Line starts with "
+"\"%(start)s\".)"
+msgstr ""
+
+#: django/core/validators.py:547
+#, python-format
+msgid ""
+"Some text starting on line %(line)s is not allowed in that context. (Line "
+"starts with \"%(start)s\".)"
+msgstr ""
+
+#: django/core/validators.py:552
+#, python-format
+msgid ""
+"\"%(attr)s\" on line %(line)s is an invalid attribute. (Line starts with \"%"
+"(start)s\".)"
+msgstr ""
+
+#: django/core/validators.py:557
+#, python-format
+msgid ""
+"\"<%(tag)s>\" on line %(line)s is an invalid tag. (Line starts with \"%"
+"(start)s\".)"
+msgstr ""
+
+#: django/core/validators.py:561
+#, python-format
+msgid ""
+"A tag on line %(line)s is missing one or more required attributes. (Line "
+"starts with \"%(start)s\".)"
+msgstr ""
+
+#: django/core/validators.py:566
+#, python-format
+msgid ""
+"The \"%(attr)s\" attribute on line %(line)s has an invalid value. (Line "
+"starts with \"%(start)s\".)"
+msgstr ""
+
+#: django/contrib/sites/models.py:10
+msgid "domain name"
+msgstr ""
+
+#: django/contrib/sites/models.py:11
+msgid "display name"
+msgstr ""
+
+#: django/contrib/sites/models.py:15
+msgid "site"
+msgstr ""
+
+#: django/contrib/sites/models.py:16
+msgid "sites"
+msgstr ""
+
+#: django/contrib/sessions/models.py:68
+msgid "session key"
+msgstr ""
+
+#: django/contrib/sessions/models.py:69
+msgid "session data"
+msgstr ""
+
+#: django/contrib/sessions/models.py:70
+msgid "expire date"
+msgstr ""
+
+#: django/contrib/sessions/models.py:74
+msgid "session"
+msgstr ""
+
+#: django/contrib/sessions/models.py:75
+msgid "sessions"
+msgstr ""
+
+#: django/contrib/redirects/models.py:7
+msgid "redirect from"
+msgstr ""
+
+#: django/contrib/redirects/models.py:8
+msgid ""
+"This should be an absolute path, excluding the domain name. Example: '/"
+"events/search/'."
+msgstr ""
+
+#: django/contrib/redirects/models.py:9
+msgid "redirect to"
+msgstr ""
+
+#: django/contrib/redirects/models.py:10
+msgid ""
+"This can be either an absolute path (as above) or a full URL starting with "
+"'http://'."
+msgstr ""
+
+#: django/contrib/redirects/models.py:13
+msgid "redirect"
+msgstr ""
+
+#: django/contrib/redirects/models.py:14
+msgid "redirects"
+msgstr ""
+
+#: django/contrib/localflavor/usa/forms.py:17
+msgid "Enter a zip code in the format XXXXX or XXXXX-XXXX."
+msgstr ""
+
+#: django/contrib/localflavor/uk/forms.py:18
+msgid "Enter a postcode. A space is required between the two postcode parts."
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:17
+msgid "th"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:17
+msgid "st"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:17
+msgid "nd"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:17
+msgid "rd"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:47
+#, python-format
+msgid "%(value).1f million"
+msgid_plural "%(value).1f million"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/contrib/humanize/templatetags/humanize.py:50
+#, python-format
+msgid "%(value).1f billion"
+msgid_plural "%(value).1f billion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/contrib/humanize/templatetags/humanize.py:53
+#, python-format
+msgid "%(value).1f trillion"
+msgid_plural "%(value).1f trillion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "one"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "two"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "three"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "four"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "five"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "six"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "seven"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "eight"
+msgstr ""
+
+#: django/contrib/humanize/templatetags/humanize.py:68
+msgid "nine"
+msgstr ""
+
+#: django/contrib/flatpages/models.py:7 django/contrib/admin/views/doc.py:315
+msgid "URL"
+msgstr ""
+
+#: django/contrib/flatpages/models.py:8
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr ""
+
+#: django/contrib/flatpages/models.py:9
+msgid "title"
+msgstr ""
+
+#: django/contrib/flatpages/models.py:10
+msgid "content"
+msgstr ""
+
+#: django/contrib/flatpages/models.py:11
+msgid "enable comments"
+msgstr ""
+
+#: django/contrib/flatpages/models.py:12
+msgid "template name"
+msgstr ""
+
+#: django/contrib/flatpages/models.py:13
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+
+#: django/contrib/flatpages/models.py:14
+msgid "registration required"
+msgstr ""
+
+#: django/contrib/flatpages/models.py:14
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+
+#: django/contrib/flatpages/models.py:18
+msgid "flat page"
+msgstr ""
+
+#: django/contrib/flatpages/models.py:19
+msgid "flat pages"
+msgstr ""
+
+#: django/contrib/contenttypes/models.py:36
+msgid "python model class name"
+msgstr ""
+
+#: django/contrib/contenttypes/models.py:39
+msgid "content type"
+msgstr ""
+
+#: django/contrib/contenttypes/models.py:40
+msgid "content types"
+msgstr ""
+
+#: django/contrib/comments/models.py:67 django/contrib/comments/models.py:166
+msgid "object ID"
+msgstr ""
+
+#: django/contrib/comments/models.py:68
+msgid "headline"
+msgstr ""
+
+#: django/contrib/comments/models.py:69 django/contrib/comments/models.py:90
+#: django/contrib/comments/models.py:167
+msgid "comment"
+msgstr ""
+
+#: django/contrib/comments/models.py:70
+msgid "rating #1"
+msgstr ""
+
+#: django/contrib/comments/models.py:71
+msgid "rating #2"
+msgstr ""
+
+#: django/contrib/comments/models.py:72
+msgid "rating #3"
+msgstr ""
+
+#: django/contrib/comments/models.py:73
+msgid "rating #4"
+msgstr ""
+
+#: django/contrib/comments/models.py:74
+msgid "rating #5"
+msgstr ""
+
+#: django/contrib/comments/models.py:75
+msgid "rating #6"
+msgstr ""
+
+#: django/contrib/comments/models.py:76
+msgid "rating #7"
+msgstr ""
+
+#: django/contrib/comments/models.py:77
+msgid "rating #8"
+msgstr ""
+
+#: django/contrib/comments/models.py:82
+msgid "is valid rating"
+msgstr ""
+
+#: django/contrib/comments/models.py:83 django/contrib/comments/models.py:169
+msgid "date/time submitted"
+msgstr ""
+
+#: django/contrib/comments/models.py:84 django/contrib/comments/models.py:170
+msgid "is public"
+msgstr ""
+
+#: django/contrib/comments/models.py:85 django/contrib/admin/views/doc.py:304
+msgid "IP address"
+msgstr ""
+
+#: django/contrib/comments/models.py:86
+msgid "is removed"
+msgstr ""
+
+#: django/contrib/comments/models.py:86
+msgid ""
+"Check this box if the comment is inappropriate. A \"This comment has been "
+"removed\" message will be displayed instead."
+msgstr ""
+
+#: django/contrib/comments/models.py:91
+msgid "comments"
+msgstr ""
+
+#: django/contrib/comments/models.py:131 django/contrib/comments/models.py:207
+msgid "Content object"
+msgstr ""
+
+#: django/contrib/comments/models.py:159
+#, python-format
+msgid ""
+"Posted by %(user)s at %(date)s\n"
+"\n"
+"%(comment)s\n"
+"\n"
+"http://%(domain)s%(url)s"
+msgstr ""
+
+#: django/contrib/comments/models.py:168
+msgid "person's name"
+msgstr ""
+
+#: django/contrib/comments/models.py:171
+msgid "ip address"
+msgstr ""
+
+#: django/contrib/comments/models.py:173
+msgid "approved by staff"
+msgstr ""
+
+#: django/contrib/comments/models.py:176
+msgid "free comment"
+msgstr ""
+
+#: django/contrib/comments/models.py:177
+msgid "free comments"
+msgstr ""
+
+#: django/contrib/comments/models.py:233
+msgid "score"
+msgstr ""
+
+#: django/contrib/comments/models.py:234
+msgid "score date"
+msgstr ""
+
+#: django/contrib/comments/models.py:237
+msgid "karma score"
+msgstr ""
+
+#: django/contrib/comments/models.py:238
+msgid "karma scores"
+msgstr ""
+
+#: django/contrib/comments/models.py:242
+#, python-format
+msgid "%(score)d rating by %(user)s"
+msgstr ""
+
+#: django/contrib/comments/models.py:258
+#, python-format
+msgid ""
+"This comment was flagged by %(user)s:\n"
+"\n"
+"%(text)s"
+msgstr ""
+
+#: django/contrib/comments/models.py:265
+msgid "flag date"
+msgstr ""
+
+#: django/contrib/comments/models.py:268
+msgid "user flag"
+msgstr ""
+
+#: django/contrib/comments/models.py:269
+msgid "user flags"
+msgstr ""
+
+#: django/contrib/comments/models.py:273
+#, python-format
+msgid "Flag by %r"
+msgstr ""
+
+#: django/contrib/comments/models.py:278
+msgid "deletion date"
+msgstr ""
+
+#: django/contrib/comments/models.py:280
+msgid "moderator deletion"
+msgstr ""
+
+#: django/contrib/comments/models.py:281
+msgid "moderator deletions"
+msgstr ""
+
+#: django/contrib/comments/models.py:285
+#, python-format
+msgid "Moderator deletion by %r"
+msgstr ""
+
+#: django/contrib/comments/views/comments.py:27
+msgid ""
+"This rating is required because you've entered at least one other rating."
+msgstr ""
+
+#: django/contrib/comments/views/comments.py:111
+#, python-format
+msgid ""
+"This comment was posted by a user who has posted fewer than %(count)s "
+"comment:\n"
+"\n"
+"%(text)s"
+msgid_plural ""
+"This comment was posted by a user who has posted fewer than %(count)s "
+"comments:\n"
+"\n"
+"%(text)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/contrib/comments/views/comments.py:116
+#, python-format
+msgid ""
+"This comment was posted by a sketchy user:\n"
+"\n"
+"%(text)s"
+msgstr ""
+
+#: django/contrib/comments/views/comments.py:188
+#: django/contrib/comments/views/comments.py:280
+msgid "Only POSTs are allowed"
+msgstr ""
+
+#: django/contrib/comments/views/comments.py:192
+#: django/contrib/comments/views/comments.py:284
+msgid "One or more of the required fields wasn't submitted"
+msgstr ""
+
+#: django/contrib/comments/views/comments.py:196
+#: django/contrib/comments/views/comments.py:286
+msgid "Somebody tampered with the comment form (security violation)"
+msgstr ""
+
+#: django/contrib/comments/views/comments.py:206
+#: django/contrib/comments/views/comments.py:292
+msgid ""
+"The comment form had an invalid 'target' parameter -- the object ID was "
+"invalid"
+msgstr ""
+
+#: django/contrib/comments/views/comments.py:257
+#: django/contrib/comments/views/comments.py:321
+msgid "The comment form didn't provide either 'preview' or 'post'"
+msgstr ""
+
+#: django/contrib/comments/views/karma.py:19
+msgid "Anonymous users cannot vote"
+msgstr ""
+
+#: django/contrib/comments/views/karma.py:23
+msgid "Invalid comment ID"
+msgstr ""
+
+#: django/contrib/comments/views/karma.py:25
+msgid "No voting for yourself"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:6
+#: django/contrib/comments/templates/comments/form.html:8
+#: django/contrib/admin/templates/admin/login.html:17
+msgid "Username:"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:6
+#: django/contrib/admin/templates/registration/password_change_done.html:3
+#: django/contrib/admin/templates/registration/password_change_form.html:3
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:4
+#: django/contrib/admin/templates/admin_doc/index.html:4
+#: django/contrib/admin/templates/admin_doc/missing_docutils.html:4
+#: django/contrib/admin/templates/admin_doc/model_detail.html:3
+#: django/contrib/admin/templates/admin_doc/model_index.html:5
+#: django/contrib/admin/templates/admin_doc/template_detail.html:4
+#: django/contrib/admin/templates/admin_doc/template_filter_index.html:5
+#: django/contrib/admin/templates/admin_doc/template_tag_index.html:5
+#: django/contrib/admin/templates/admin_doc/view_detail.html:4
+#: django/contrib/admin/templates/admin_doc/view_index.html:5
+#: django/contrib/admin/templates/admin/base.html:25
+#: django/contrib/admin/templates/admin/change_form.html:10
+#: django/contrib/admin/templates/admin/change_list.html:5
+#: django/contrib/admin/templates/admin/delete_confirmation.html:3
+#: django/contrib/admin/templates/admin/object_history.html:3
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:9
+msgid "Log out"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:8
+#: django/contrib/admin/templates/admin/login.html:20
+msgid "Password:"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:8
+msgid "Forgotten your password?"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:12
+msgid "Ratings"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:12
+#: django/contrib/comments/templates/comments/form.html:23
+msgid "Required"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:12
+#: django/contrib/comments/templates/comments/form.html:23
+msgid "Optional"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:23
+msgid "Post a photo"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:28
+#: django/contrib/comments/templates/comments/freeform.html:5
+msgid "Comment:"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/form.html:35
+#: django/contrib/comments/templates/comments/freeform.html:10
+msgid "Preview comment"
+msgstr ""
+
+#: django/contrib/comments/templates/comments/freeform.html:4
+msgid "Your name:"
+msgstr ""
+
+#: django/contrib/auth/forms.py:17 django/contrib/auth/forms.py:138
+msgid "The two password fields didn't match."
+msgstr ""
+
+#: django/contrib/auth/forms.py:25
+msgid "A user with that username already exists."
+msgstr ""
+
+#: django/contrib/auth/forms.py:53
+msgid ""
+"Your Web browser doesn't appear to have cookies enabled. Cookies are "
+"required for logging in."
+msgstr ""
+
+#: django/contrib/auth/forms.py:60 django/contrib/admin/views/decorators.py:10
+msgid ""
+"Please enter a correct username and password. Note that both fields are case-"
+"sensitive."
+msgstr ""
+
+#: django/contrib/auth/forms.py:62
+msgid "This account is inactive."
+msgstr ""
+
+#: django/contrib/auth/forms.py:85
+msgid ""
+"That e-mail address doesn't have an associated user account. Are you sure "
+"you've registered?"
+msgstr ""
+
+#: django/contrib/auth/forms.py:117
+msgid "The two 'new password' fields didn't match."
+msgstr ""
+
+#: django/contrib/auth/forms.py:124
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr ""
+
+#: django/contrib/auth/models.py:38 django/contrib/auth/models.py:57
+msgid "name"
+msgstr ""
+
+#: django/contrib/auth/models.py:40
+msgid "codename"
+msgstr ""
+
+#: django/contrib/auth/models.py:42
+msgid "permission"
+msgstr ""
+
+#: django/contrib/auth/models.py:43 django/contrib/auth/models.py:58
+msgid "permissions"
+msgstr ""
+
+#: django/contrib/auth/models.py:60
+msgid "group"
+msgstr ""
+
+#: django/contrib/auth/models.py:61 django/contrib/auth/models.py:100
+msgid "groups"
+msgstr ""
+
+#: django/contrib/auth/models.py:90
+msgid "username"
+msgstr ""
+
+#: django/contrib/auth/models.py:90
+msgid ""
+"Required. 30 characters or fewer. Alphanumeric characters only (letters, "
+"digits and underscores)."
+msgstr ""
+
+#: django/contrib/auth/models.py:91
+msgid "first name"
+msgstr ""
+
+#: django/contrib/auth/models.py:92
+msgid "last name"
+msgstr ""
+
+#: django/contrib/auth/models.py:93
+msgid "e-mail address"
+msgstr ""
+
+#: django/contrib/auth/models.py:94
+msgid "password"
+msgstr ""
+
+#: django/contrib/auth/models.py:94
+msgid ""
+"Use '[algo]$[salt]$[hexdigest]' or use the <a href=\"password/\">change "
+"password form</a>."
+msgstr ""
+
+#: django/contrib/auth/models.py:95
+msgid "staff status"
+msgstr ""
+
+#: django/contrib/auth/models.py:95
+msgid "Designates whether the user can log into this admin site."
+msgstr ""
+
+#: django/contrib/auth/models.py:96
+msgid "active"
+msgstr ""
+
+#: django/contrib/auth/models.py:96
+msgid ""
+"Designates whether this user can log into the Django admin. Unselect this "
+"instead of deleting accounts."
+msgstr ""
+
+#: django/contrib/auth/models.py:97
+msgid "superuser status"
+msgstr ""
+
+#: django/contrib/auth/models.py:97
+msgid ""
+"Designates that this user has all permissions without explicitly assigning "
+"them."
+msgstr ""
+
+#: django/contrib/auth/models.py:98
+msgid "last login"
+msgstr ""
+
+#: django/contrib/auth/models.py:99
+msgid "date joined"
+msgstr ""
+
+#: django/contrib/auth/models.py:101
+msgid ""
+"In addition to the permissions manually assigned, this user will also get "
+"all permissions granted to each group he/she is in."
+msgstr ""
+
+#: django/contrib/auth/models.py:102
+msgid "user permissions"
+msgstr ""
+
+#: django/contrib/auth/models.py:105
+msgid "user"
+msgstr ""
+
+#: django/contrib/auth/models.py:106
+msgid "users"
+msgstr ""
+
+#: django/contrib/auth/models.py:111
+msgid "Personal info"
+msgstr ""
+
+#: django/contrib/auth/models.py:112
+msgid "Permissions"
+msgstr ""
+
+#: django/contrib/auth/models.py:113
+msgid "Important dates"
+msgstr ""
+
+#: django/contrib/auth/models.py:114
+msgid "Groups"
+msgstr ""
+
+#: django/contrib/auth/models.py:258
+msgid "message"
+msgstr ""
+
+#: django/contrib/auth/views.py:39
+msgid "Logged out"
+msgstr ""
+
+#: django/contrib/admin/filterspecs.py:40
+#, python-format
+msgid ""
+"<h3>By %s:</h3>\n"
+"<ul>\n"
+msgstr ""
+
+#: django/contrib/admin/filterspecs.py:70
+#: django/contrib/admin/filterspecs.py:88
+#: django/contrib/admin/filterspecs.py:143
+#: django/contrib/admin/filterspecs.py:169
+msgid "All"
+msgstr ""
+
+#: django/contrib/admin/filterspecs.py:109
+msgid "Any date"
+msgstr ""
+
+#: django/contrib/admin/filterspecs.py:110
+msgid "Today"
+msgstr ""
+
+#: django/contrib/admin/filterspecs.py:113
+msgid "Past 7 days"
+msgstr ""
+
+#: django/contrib/admin/filterspecs.py:115
+msgid "This month"
+msgstr ""
+
+#: django/contrib/admin/filterspecs.py:117
+msgid "This year"
+msgstr ""
+
+#: django/contrib/admin/models.py:16
+msgid "action time"
+msgstr ""
+
+#: django/contrib/admin/models.py:19
+msgid "object id"
+msgstr ""
+
+#: django/contrib/admin/models.py:20
+msgid "object repr"
+msgstr ""
+
+#: django/contrib/admin/models.py:21
+msgid "action flag"
+msgstr ""
+
+#: django/contrib/admin/models.py:22
+msgid "change message"
+msgstr ""
+
+#: django/contrib/admin/models.py:25
+msgid "log entry"
+msgstr ""
+
+#: django/contrib/admin/models.py:26
+msgid "log entries"
+msgstr ""
+
+#: django/contrib/admin/views/auth.py:19
+#: django/contrib/admin/views/main.py:257
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was added successfully."
+msgstr ""
+
+#: django/contrib/admin/views/auth.py:24
+#: django/contrib/admin/views/main.py:261
+#: django/contrib/admin/views/main.py:347
+msgid "You may edit it again below."
+msgstr ""
+
+#: django/contrib/admin/views/auth.py:30
+msgid "Add user"
+msgstr ""
+
+#: django/contrib/admin/views/auth.py:57
+msgid "Password changed successfully."
+msgstr ""
+
+#: django/contrib/admin/views/auth.py:64
+#, python-format
+msgid "Change password: %s"
+msgstr ""
+
+#: django/contrib/admin/views/decorators.py:24
+#: django/contrib/admin/templates/admin/login.html:25
+msgid "Log in"
+msgstr ""
+
+#: django/contrib/admin/views/decorators.py:62
+msgid ""
+"Please log in again, because your session has expired. Don't worry: Your "
+"submission has been saved."
+msgstr ""
+
+#: django/contrib/admin/views/decorators.py:69
+msgid ""
+"Looks like your browser isn't configured to accept cookies. Please enable "
+"cookies, reload this page, and try again."
+msgstr ""
+
+#: django/contrib/admin/views/decorators.py:83
+msgid "Usernames cannot contain the '@' character."
+msgstr ""
+
+#: django/contrib/admin/views/decorators.py:85
+#, python-format
+msgid "Your e-mail address is not your username. Try '%s' instead."
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:46 django/contrib/admin/views/doc.py:48
+#: django/contrib/admin/views/doc.py:50
+msgid "tag:"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:77 django/contrib/admin/views/doc.py:79
+#: django/contrib/admin/views/doc.py:81
+msgid "filter:"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:135 django/contrib/admin/views/doc.py:137
+#: django/contrib/admin/views/doc.py:139
+msgid "view:"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:164
+#, python-format
+msgid "App %r not found"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:171
+#, python-format
+msgid "Model %(name)r not found in app %(label)r"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:183
+#, python-format
+msgid "the related `%(label)s.%(type)s` object"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:183 django/contrib/admin/views/doc.py:205
+#: django/contrib/admin/views/doc.py:219 django/contrib/admin/views/doc.py:224
+msgid "model:"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:214
+#, python-format
+msgid "related `%(label)s.%(name)s` objects"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:219
+#, python-format
+msgid "all %s"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:224
+#, python-format
+msgid "number of %s"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:229
+#, python-format
+msgid "Fields on %s objects"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:291 django/contrib/admin/views/doc.py:301
+#: django/contrib/admin/views/doc.py:303 django/contrib/admin/views/doc.py:309
+#: django/contrib/admin/views/doc.py:310 django/contrib/admin/views/doc.py:312
+msgid "Integer"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:292
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:293 django/contrib/admin/views/doc.py:311
+#, python-format
+msgid "String (up to %(maxlength)s)"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:294
+msgid "Comma-separated integers"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:295
+msgid "Date (without time)"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:296
+msgid "Date (with time)"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:297
+msgid "E-mail address"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:298 django/contrib/admin/views/doc.py:299
+#: django/contrib/admin/views/doc.py:302
+msgid "File path"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:300
+msgid "Decimal number"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:306
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:307
+msgid "Relation to parent model"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:308
+msgid "Phone number"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:313
+msgid "Text"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:314
+msgid "Time"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:316
+msgid "U.S. state (two uppercase letters)"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:317
+msgid "XML text"
+msgstr ""
+
+#: django/contrib/admin/views/doc.py:343
+#, python-format
+msgid "%s does not appear to be a urlpattern object"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:223
+msgid "Site administration"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:271
+#: django/contrib/admin/views/main.py:356
+#, python-format
+msgid "You may add another %s below."
+msgstr ""
+
+#: django/contrib/admin/views/main.py:289
+#, python-format
+msgid "Add %s"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:335
+#, python-format
+msgid "Added %s."
+msgstr ""
+
+#: django/contrib/admin/views/main.py:337
+#, python-format
+msgid "Changed %s."
+msgstr ""
+
+#: django/contrib/admin/views/main.py:339
+#, python-format
+msgid "Deleted %s."
+msgstr ""
+
+#: django/contrib/admin/views/main.py:342
+msgid "No fields changed."
+msgstr ""
+
+#: django/contrib/admin/views/main.py:345
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was changed successfully."
+msgstr ""
+
+#: django/contrib/admin/views/main.py:353
+#, python-format
+msgid ""
+"The %(name)s \"%(obj)s\" was added successfully. You may edit it again below."
+msgstr ""
+
+#: django/contrib/admin/views/main.py:391
+#, python-format
+msgid "Change %s"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:476
+#, python-format
+msgid "One or more %(fieldname)s in %(name)s: %(obj)s"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:481
+#, python-format
+msgid "One or more %(fieldname)s in %(name)s:"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:514
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was deleted successfully."
+msgstr ""
+
+#: django/contrib/admin/views/main.py:517
+msgid "Are you sure?"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:539
+#, python-format
+msgid "Change history: %s"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:573
+#, python-format
+msgid "Select %s"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:573
+#, python-format
+msgid "Select %s to change"
+msgstr ""
+
+#: django/contrib/admin/views/main.py:768
+msgid "Database error"
+msgstr ""
+
+#: django/contrib/admin/templatetags/admin_list.py:247
+msgid "All dates"
+msgstr ""
+
+#: django/contrib/admin/templates/widget/date_time.html:3
+msgid "Date:"
+msgstr ""
+
+#: django/contrib/admin/templates/widget/date_time.html:4
+msgid "Time:"
+msgstr ""
+
+#: django/contrib/admin/templates/widget/file.html:2
+msgid "Currently:"
+msgstr ""
+
+#: django/contrib/admin/templates/widget/file.html:3
+msgid "Change:"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/logged_out.html:4
+#: django/contrib/admin/templates/registration/password_change_done.html:4
+#: django/contrib/admin/templates/registration/password_change_form.html:4
+#: django/contrib/admin/templates/registration/password_reset_done.html:4
+#: django/contrib/admin/templates/registration/password_reset_form.html:4
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:3
+#: django/contrib/admin/templates/admin/500.html:4
+#: django/contrib/admin/templates/admin/base.html:30
+#: django/contrib/admin/templates/admin/change_form.html:13
+#: django/contrib/admin/templates/admin/change_list.html:6
+#: django/contrib/admin/templates/admin/delete_confirmation.html:6
+#: django/contrib/admin/templates/admin/invalid_setup.html:4
+#: django/contrib/admin/templates/admin/object_history.html:5
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:12
+msgid "Home"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/logged_out.html:8
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr ""
+
+#: django/contrib/admin/templates/registration/logged_out.html:10
+msgid "Log in again"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_done.html:3
+#: django/contrib/admin/templates/registration/password_change_form.html:3
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:3
+#: django/contrib/admin/templates/admin/base.html:25
+#: django/contrib/admin/templates/admin/change_form.html:10
+#: django/contrib/admin/templates/admin/change_list.html:5
+#: django/contrib/admin/templates/admin/delete_confirmation.html:3
+#: django/contrib/admin/templates/admin/object_history.html:3
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:9
+msgid "Documentation"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_done.html:3
+#: django/contrib/admin/templates/registration/password_change_form.html:3
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:4
+#: django/contrib/admin/templates/admin_doc/index.html:4
+#: django/contrib/admin/templates/admin_doc/missing_docutils.html:4
+#: django/contrib/admin/templates/admin_doc/model_detail.html:3
+#: django/contrib/admin/templates/admin_doc/model_index.html:5
+#: django/contrib/admin/templates/admin_doc/template_detail.html:4
+#: django/contrib/admin/templates/admin_doc/template_filter_index.html:5
+#: django/contrib/admin/templates/admin_doc/template_tag_index.html:5
+#: django/contrib/admin/templates/admin_doc/view_detail.html:4
+#: django/contrib/admin/templates/admin_doc/view_index.html:5
+#: django/contrib/admin/templates/admin/base.html:25
+#: django/contrib/admin/templates/admin/change_form.html:10
+#: django/contrib/admin/templates/admin/change_list.html:5
+#: django/contrib/admin/templates/admin/delete_confirmation.html:3
+#: django/contrib/admin/templates/admin/object_history.html:3
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:9
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:15
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:46
+msgid "Change password"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_done.html:4
+#: django/contrib/admin/templates/registration/password_change_form.html:4
+#: django/contrib/admin/templates/registration/password_change_form.html:6
+#: django/contrib/admin/templates/registration/password_change_form.html:10
+msgid "Password change"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_done.html:6
+#: django/contrib/admin/templates/registration/password_change_done.html:10
+msgid "Password change successful"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_done.html:12
+msgid "Your password was changed."
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_form.html:12
+msgid ""
+"Please enter your old password, for security's sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_form.html:17
+msgid "Old password:"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_form.html:19
+msgid "New password:"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_form.html:21
+msgid "Confirm password:"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_change_form.html:23
+msgid "Change my password"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_done.html:4
+#: django/contrib/admin/templates/registration/password_reset_form.html:4
+#: django/contrib/admin/templates/registration/password_reset_form.html:6
+#: django/contrib/admin/templates/registration/password_reset_form.html:10
+msgid "Password reset"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_done.html:6
+#: django/contrib/admin/templates/registration/password_reset_done.html:10
+msgid "Password reset successful"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_done.html:12
+msgid ""
+"We've e-mailed a new password to the e-mail address you submitted. You "
+"should be receiving it shortly."
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_email.html:2
+msgid "You're receiving this e-mail because you requested a password reset"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_email.html:3
+#, python-format
+msgid "for your user account at %(site_name)s"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_email.html:5
+#, python-format
+msgid "Your new password is: %(new_password)s"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_email.html:7
+msgid "Feel free to change this password by going to this page:"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_email.html:11
+msgid "Your username, in case you've forgotten:"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_email.html:13
+msgid "Thanks for using our site!"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_email.html:15
+#, python-format
+msgid "The %(site_name)s team"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_form.html:12
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll reset "
+"your password and e-mail the new one to you."
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_form.html:16
+msgid "E-mail address:"
+msgstr ""
+
+#: django/contrib/admin/templates/registration/password_reset_form.html:16
+msgid "Reset my password"
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:3
+msgid "Bookmarklets"
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:5
+msgid "Documentation bookmarklets"
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:9
+msgid ""
+"\n"
+"<p class=\"help\">To install bookmarklets, drag the link to your bookmarks\n"
+"toolbar, or right-click the link and add it to your bookmarks. Now you can\n"
+"select the bookmarklet from any page in the site.  Note that some of these\n"
+"bookmarklets require you to be viewing the site from a computer designated\n"
+"as \"internal\" (talk to your system administrator if you aren't sure if\n"
+"your computer is \"internal\").</p>\n"
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:19
+msgid "Documentation for this page"
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:20
+msgid ""
+"Jumps you from any page to the documentation for the view that generates "
+"that page."
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:22
+msgid "Show object ID"
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:23
+msgid ""
+"Shows the content-type and unique ID for pages that represent a single "
+"object."
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:25
+msgid "Edit this object (current window)"
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:26
+msgid "Jumps to the admin page for pages that represent a single object."
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:28
+msgid "Edit this object (new window)"
+msgstr ""
+
+#: django/contrib/admin/templates/admin_doc/bookmarklets.html:29
+msgid "As above, but opens the admin page in a new window."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/404.html:4
+#: django/contrib/admin/templates/admin/404.html:8
+msgid "Page not found"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/404.html:10
+msgid "We're sorry, but the requested page could not be found."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/500.html:4
+msgid "Server error"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/500.html:6
+msgid "Server error (500)"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/500.html:9
+msgid "Server Error <em>(500)</em>"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/500.html:10
+msgid ""
+"There's been an error. It's been reported to the site administrators via e-"
+"mail and should be fixed shortly. Thanks for your patience."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/base.html:25
+msgid "Welcome,"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/base_site.html:4
+msgid "Django site admin"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/base_site.html:7
+msgid "Django administration"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/change_form.html:15
+#: django/contrib/admin/templates/admin/index.html:28
+msgid "Add"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/change_form.html:21
+#: django/contrib/admin/templates/admin/object_history.html:5
+msgid "History"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/change_form.html:22
+msgid "View on site"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/change_form.html:32
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:24
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/contrib/admin/templates/admin/change_form.html:50
+msgid "Ordering"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/change_form.html:53
+msgid "Order:"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/change_list.html:12
+#, python-format
+msgid "Add %(name)s"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/delete_confirmation.html:9
+#: django/contrib/admin/templates/admin/submit_line.html:3
+msgid "Delete"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/delete_confirmation.html:14
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/delete_confirmation.html:21
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/delete_confirmation.html:26
+msgid "Yes, I'm sure"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/filter.html:2
+#, python-format
+msgid " By %(filter_title)s "
+msgstr ""
+
+#: django/contrib/admin/templates/admin/filters.html:4
+msgid "Filter"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/index.html:17
+#, python-format
+msgid "Models available in the %(name)s application."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/index.html:18
+#, python-format
+msgid "%(name)s"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/index.html:34
+msgid "Change"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/index.html:44
+msgid "You don't have permission to edit anything."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/index.html:52
+msgid "Recent Actions"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/index.html:53
+msgid "My Actions"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/index.html:57
+msgid "None available"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/invalid_setup.html:8
+msgid ""
+"Something's wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/object_history.html:18
+msgid "Date/time"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/object_history.html:19
+msgid "User"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/object_history.html:20
+msgid "Action"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/object_history.html:26
+msgid "DATE_WITH_TIME_FULL"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/object_history.html:36
+msgid ""
+"This object doesn't have a change history. It probably wasn't added via this "
+"admin site."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/pagination.html:10
+msgid "Show all"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/search_form.html:8
+msgid "Go"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/search_form.html:10
+#, python-format
+msgid "1 result"
+msgid_plural "%(counter)s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: django/contrib/admin/templates/admin/search_form.html:10
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/submit_line.html:4
+msgid "Save as new"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/submit_line.html:5
+msgid "Save and add another"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/submit_line.html:6
+msgid "Save and continue editing"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/submit_line.html:7
+msgid "Save"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/auth/user/add_form.html:6
+msgid ""
+"First, enter a username and password. Then, you'll be able to edit more user "
+"options."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/auth/user/add_form.html:12
+msgid "Username"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/auth/user/add_form.html:18
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:34
+msgid "Password"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/auth/user/add_form.html:23
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:39
+msgid "Password (again)"
+msgstr ""
+
+#: django/contrib/admin/templates/admin/auth/user/add_form.html:24
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:40
+msgid "Enter the same password as above, for verification."
+msgstr ""
+
+#: django/contrib/admin/templates/admin/auth/user/change_password.html:28
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr ""
+
+#: django/conf/global_settings.py:39
+msgid "Arabic"
+msgstr ""
+
+#: django/conf/global_settings.py:40
+msgid "Bengali"
+msgstr ""
+
+#: django/conf/global_settings.py:41
+msgid "Catalan"
+msgstr ""
+
+#: django/conf/global_settings.py:42
+msgid "Czech"
+msgstr ""
+
+#: django/conf/global_settings.py:43
+msgid "Welsh"
+msgstr ""
+
+#: django/conf/global_settings.py:44
+msgid "Danish"
+msgstr ""
+
+#: django/conf/global_settings.py:45
+msgid "German"
+msgstr ""
+
+#: django/conf/global_settings.py:46
+msgid "Greek"
+msgstr ""
+
+#: django/conf/global_settings.py:49
+msgid "Argentinean Spanish"
+msgstr ""
+
+#: django/conf/global_settings.py:50
+msgid "Finnish"
+msgstr ""
+
+#: django/conf/global_settings.py:51
+msgid "French"
+msgstr ""
+
+#: django/conf/global_settings.py:52
+msgid "Galician"
+msgstr ""
+
+#: django/conf/global_settings.py:53
+msgid "Hungarian"
+msgstr ""
+
+#: django/conf/global_settings.py:54
+msgid "Hebrew"
+msgstr ""
+
+#: django/conf/global_settings.py:55
+msgid "Icelandic"
+msgstr ""
+
+#: django/conf/global_settings.py:56
+msgid "Italian"
+msgstr ""
+
+#: django/conf/global_settings.py:57
+msgid "Japanese"
+msgstr ""
+
+#: django/conf/global_settings.py:58
+msgid "Kannada"
+msgstr ""
+
+#: django/conf/global_settings.py:59
+msgid "Latvian"
+msgstr ""
+
+#: django/conf/global_settings.py:60
+msgid "Macedonian"
+msgstr ""
+
+#: django/conf/global_settings.py:61
+msgid "Dutch"
+msgstr ""
+
+#: django/conf/global_settings.py:62
+msgid "Norwegian"
+msgstr ""
+
+#: django/conf/global_settings.py:63
+msgid "Polish"
+msgstr ""
+
+#: django/conf/global_settings.py:64
+msgid "Portugese"
+msgstr ""
+
+#: django/conf/global_settings.py:65
+msgid "Brazilian"
+msgstr ""
+
+#: django/conf/global_settings.py:66
+msgid "Romanian"
+msgstr ""
+
+#: django/conf/global_settings.py:67
+msgid "Russian"
+msgstr ""
+
+#: django/conf/global_settings.py:68
+msgid "Slovak"
+msgstr ""
+
+#: django/conf/global_settings.py:69
+msgid "Slovenian"
+msgstr ""
+
+#: django/conf/global_settings.py:70
+msgid "Serbian"
+msgstr ""
+
+#: django/conf/global_settings.py:71
+msgid "Swedish"
+msgstr ""
+
+#: django/conf/global_settings.py:73
+msgid "Telugu"
+msgstr ""
+
+#: django/conf/global_settings.py:74
+msgid "Turkish"
+msgstr ""
+
+#: django/conf/global_settings.py:75
+msgid "Ukrainian"
+msgstr ""
+
+#: django/conf/global_settings.py:76
+msgid "Simplified Chinese"
+msgstr ""
+
+#: django/conf/global_settings.py:77
+msgid "Traditional Chinese"
+msgstr ""
